@@ -1,1 +1,3 @@
 Hello this is newfile1.txt
+
+This line is needed here so my things will work
