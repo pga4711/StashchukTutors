@@ -161,6 +161,7 @@ namespace VMI.VibLyze
             ShowMainWindow(currentCulture);
 
             CheckLicenses();
+            //Comment in main that must be here
         }
 
         private static void InitializeLogging()
