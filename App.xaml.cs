@@ -136,6 +136,7 @@ namespace VMI.VibLyze
 
         private void AppStartup(object sender, StartupEventArgs e)
         {
+            //Comment from feature 2.
             InitializeLogging();
             Logger = LogUtility.CreateClassLogger<App>();
 
